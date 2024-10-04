@@ -1,0 +1,13 @@
+.heading-primary {
+    letter-spacing: 2px;
+    display: inline-block;
+    background-image: linear-gradient(to right bottom,rgb(19, 185, 19),rgb(5, 61, 5));
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    transition: all .1s;
+    cursor: grab;
+    &:hover {
+      transform: translateY(-1rem) scale(1.01);
+    }
+  }

@@ -1,0 +1,14 @@
+.progress-container {
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    background-color: #f1f1f1;
+    width: 100%;
+  
+    .progress-bar {
+      height: 0.35rem;
+      background: #0fe903;
+  
+      width: 0%;
+    }
+  }

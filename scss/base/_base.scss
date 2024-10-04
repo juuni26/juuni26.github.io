@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  html {
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+  }
+  a {
+    color: $link-color;
+    text-decoration: none;
+    font-weight: 600;
+    &:hover {
+      color: $font-color2;
+    }
+  }
+  
+  img {
+    width: 100%;
+  }
+
+  body {
+    background-color: $bg-color;
+    color: $font-color;
+    margin: 0;
+    font-size: 1.6rem;
+    font-family: "Raleway", sans-serif;
+    line-height: 1.6;
+  }

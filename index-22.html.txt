@@ -93,11 +93,12 @@
     </nav>
     <main class="page1" data-aos="zoom-out-down">
       <h1>Hi, I am <span>Junio Akarda</span></h1>
-      <h2>Fullstack Software Engineer </h2>
+      <h2>Web Developer | Specialized Backend Engineer</h2>
       <h3>
         <span class="txt-rotate" data-period="1500"
           data-rotate='[ "What doing?","i spend my days crafting code, bringing ideas to life through software","I eat bugs and errors in daily life 🐛"  ]'></span>
       </h3>
+
       <a href="#profile" class="btn learn-more"> read my story </a>
     </main>
   </div>
@@ -108,17 +109,16 @@
       <h4 class="heading-primary">A glance of me</h4>
     </div>
     <p>
-      <span>Background</span> Hello, My name is
-      <strong>Junio Akarda</strong>. I am from Indonesia. I first got into software during my third year of college,
-      just before my internship at one big company in Indonesia. I discovered how fun coding could be, and I’ve been
-      following that path
-      ever since. As a natural problem solver, coding fits perfectly with my personality. Though I feel like a late
-      starter before and now, I’m excited every day to learn something new and solve realworld problem with my skills.
-      <span>Current Role and Interests:</span>
-      I currently serve as a Fullstack Engineer at Jitera. Outside of my professional life, I am committed to continuous
-      personal growth through reading, enjoy following football, maintain a spiritual practice, and engage in
-      philosophical contemplation about the nature of our world.
-
+      <span>Quick Introduction !</span> Hello, My name is
+      <strong>Junio Akarda</strong>. I am from Indonesia 🚩
+      <span>What I do ?</span>
+      I currently working as backend developer at Prestisa, where I contribute to delivering cutting-edge software
+      solutions. My aspiration is to set a positive example in my field, offering innovative solutions while continually
+      advancing my own skills in pursuit of a fulfilling career and a meaningful life &hearts;
+      <span>What is my goal?</span>
+      By harnessing the power of code without limitations, we can be a force for good, using our skills to uplift
+      individuals, communities, and society as a whole. It's in this boundless realm of possibilities that we discover
+      the true essence of being a beneficiary to people through programming and development of apps.
   </article>
 
 
@@ -130,28 +130,8 @@
     <div class="timeline">
       <div class="entry">
         <div class="title">
-          <h3>2024 - now</h3>
-          <p>Jitera</p>
-        </div>
-        <div class="bodyy">
-          <p>Fullstack Engineer</p>
-          <ul>
-            <li>Work on a range of internal and public projects with varying levels of complexity, ensuring they meet
-              the company's and clients' needs.</li>
-            <li>Collaborate with international clients, mainly from Japan, to ensure smooth project delivery and address
-              their specific requirements.</li>
-            <li>Leverage my experience in AI development to offer feedback and help improve the company's internal AI
-              SaaS platform.</li>
-            <li>Contribute to the company's growth by building practical solutions with no restrictions on tech stack,
-              focusing on what works best for each challenge.</li>
-
-          </ul>
-        </div>
-      </div>
-      <div class="entry">
-        <div class="title">
-          <h3>2021 - 2023</h3>
-          <p>Prestisa</p>
+          <h3>2021 - now(current)</h3>
+          <p>Prestisa.id</p>
         </div>
         <div class="bodyy">
           <p>Backend Developer</p>
@@ -222,6 +202,20 @@
           </ul>
         </div>
       </div>
+      <div class="entry">
+        <div class="title">
+          <h3>2014 - 2017</h3>
+          <p>Senior Highschool</p>
+        </div>
+        <div class="bodyy">
+          <p>Senior Highschool Student</p>
+          <ul>
+            <li>SMA IT Albinaa (10-11)</li>
+            <li>Sma 2 Bekasi (11)</li>
+            <li>Windshor HS (11-12)</li>
+          </ul>
+        </div>
+      </div>
     </div>
   </section>
 
@@ -234,21 +228,23 @@
         <h5>Front End</h5>
         <ul>
           <li>HTML</li>
-          <li>CSS/SCSS, Tailwind</li>
-          <li>Javascript, Typescript</li>
-          <li>React JS, Vite, Next JS , 3rd party library (Ant Design, Radix UI, ShadCN)</li>
-          <li>API DATA Fetching, React Query, Axios, Fetch</li>
+          <li>CSS/SCSS</li>
+          <li>Javascript ES5/ES6, FP / OOP </li>
+          <li>React JS ,hooks, Context, 3rd party library (Ant Design,etc)</li>
+          <li>Playing with API DATA, use additional tools; Fetch, Axios</li>
+          <li>NPM environment, Webpack , other front end library</li>
+
         </ul>
       </div>
       <div class="stack" data-aos="fade-down" data-aos-delay="200">
         <h5>Back End</h5>
         <ul>
           <li>PHP, Laravel</li>
-          <li>Node, Express, Nest</li>
-          <li>SQL,Postgres, MySql,Mssql</li>
-          <li>No SQL, Mongo DB</li>
-          <li>Redis, RabbitMQ</li>
-          <li>AWS, </li>
+          <li>Node JS</li>
+          <li>SQL using MySql/Mssql</li>
+          <li>No SQL using Mongo DB</li>
+          <li>Graph Ql with gatsby query for blog</li>
+          <li>Function Programming with Elixir</li>
 
         </ul>
       </div>
@@ -350,11 +346,10 @@
     </div>
 
     <article class="internal-project">
-      <p>Some of <strong>notable work</strong> i do in my Previous company:</p>
+      <p>Some of <strong>notable work</strong> i do in my current company:</p>
       <div>
         <p>
-          1. Create fully e-commerce transaction API for Prestisa Customer App, by implement buy feature with
-          vouchering(voucher like shopeeFood
+          1. Create fully e-commerce transaction API for Prestisa Customer App, by implement buy feature with vouchering(voucher like shopeeFood
           Implementation, 2 section:
           discount product and shipping cost)
         <ul>
@@ -392,27 +387,31 @@
     </div>
     <h6>
       Make a friend ? Have Offer / Idea ?<br />a message is very
-      welcome, email: bakamono2606@gmail.com
+      welcome here :)
     </h6>
-    <!-- <form id="form" name="form" class="topBefore" method="POST" data-netlify="true" data-netlify-recaptcha="true">
+    <form id="form" name="form" class="topBefore" method="POST" data-netlify="true" data-netlify-recaptcha="true">
       <input id="name" name="name" type="text" placeholder="NAME" required />
       <input id="email" name="email" type="email" placeholder="E-MAIL" required />
       <textarea id="message" name="message" type="text" placeholder="MESSAGE"></textarea>
       <div data-netlify-recaptcha="true"></div>
       <button id="submit">Send</button>
-    </form> -->
+    </form>
   </section>
   <footer>
-    <h3>junioakarda</h3>
+    <h3>junioakarda©2023</h3>
 
     <h4>
-      All Reserved &copy; 2024
+      "Code with Purpose, Innovate with Passion"
+      <i class="em em-green_heart" aria-role="presentation" aria-label="GREEN HEART"></i>
     </h4>
     <div class="socmed">
-      <!-- <p>Find me on</p> -->
+      <p>Find me on</p>
       <div class="socmed-list">
-        <!-- <a target="_blank" href="https://www.linkedin.com/in/junio-akarda-5ab6b9194/"><img
-            src="./assets/linkedin.svg" /></a> -->
+        <!-- <a
+            target="_blank"
+            href="https://www.linkedin.com/in/junio-akarda-5ab6b9194/"
+            ><img src="./assets/linkedin.svg"
+          /></a> -->
         <a target="_blank" href="https://github.com/juuni26"><img src="./assets/github.svg" /></a>
         <!-- <a target="_blank" href="https://www.instagram.com/akardajun/"
             ><img src="./assets/instagram.svg"

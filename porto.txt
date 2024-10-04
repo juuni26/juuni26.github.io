@@ -1,0 +1,28 @@
+
+onHome : https://dev.to/tegandbiscuits/building-a-static-site-with-hugo-and-webpack-pd3
+
+
+target : 
+
+- for profile	
+- for recruiter
+- for freelance
+
+goals :
+
+- to know me more and show my intention
+
+content :
+
+- landing page
+- about me
+- work history
+- projects 
+- blog
+- contact
+
+feature :
+
+dark mode    : https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34l8
+progress bar : https://www.w3schools.com/howto/howto_js_scroll_indicator.asp
+cursor effect : https://tympanus.net/codrops/2019/01/31/custom-cursor-effects/
